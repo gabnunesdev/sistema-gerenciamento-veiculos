@@ -72,8 +72,8 @@ Siga os passos abaixo para executar a aplicação em seu ambiente local.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-cd NOME-DO-REPOSITORIO
+git clone [https://github.com/gabnunesdev/sistema-gerenciamento-veiculos.git](https://github.com/gabnunesdev/sistema-gerenciamento-veiculos.git)
+cd sistema-gerenciament-veiculos
 ```
 
 ### 2. Configurar o Back-end
@@ -87,7 +87,7 @@ npm install
 
 # Crie um arquivo .env na raiz da pasta 'backend'
 # e adicione as seguintes variáveis, substituindo pelos seus dados:
-DATABASE_URL="postgresql://USUARIO:SENHA@localhost:5432/NOME_DO_BANCO"
+DATABASE_URL="postgresql://postgres:cbjr2025@localhost:5432/veiculos"
 JWT_SECRET="SUA_CHAVE_SECRETA_PARA_O_JWT"
 
 # Execute as migrações do Prisma para criar as tabelas no banco
@@ -131,5 +131,5 @@ Pronto! O front-end estará disponível em `http://localhost:5173` e o back-end 
 
 Desenvolvido por **[Seu Nome Completo]**.
 
-- **LinkedIn:** [https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/seu-linkedin/)
-- **Email:** [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
+- **LinkedIn:** [https://www.https://www.linkedin.com/in/gabrielnunes-dev/](https://www.linkedin.com/in/gabrielnunes-dev/)
+- **Email:** [gabrielnunesdev@outlook.com](mailto:gabrielnunesdev@outlook.com)

@@ -72,8 +72,8 @@ Siga os passos abaixo para executar a aplicação em seu ambiente local.
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://github.com/gabnunesdev/sistema-gerenciamento-veiculos.git](https://github.com/gabnunesdev/sistema-gerenciamento-veiculos.git)
-cd sistema-gerenciament-veiculos
+git clone (https://github.com/gabnunesdev/sistema-gerenciamento-veiculos.git)
+cd sistema-gerenciamento-veiculos
 ```
 
 ### 2. Configurar o Back-end
@@ -129,7 +129,7 @@ Pronto! O front-end estará disponível em `http://localhost:5173` e o back-end 
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **[Seu Nome Completo]**.
+Desenvolvido por **[Gabriel Nunes]**.
 
-- **LinkedIn:** [https://www.https://www.linkedin.com/in/gabrielnunes-dev/](https://www.linkedin.com/in/gabrielnunes-dev/)
+- **LinkedIn:** [https://www.linkedin.com/in/gabrielnunes-dev/](https://www.linkedin.com/in/gabrielnunes-dev/)
 - **Email:** [gabrielnunesdev@outlook.com](mailto:gabrielnunesdev@outlook.com)

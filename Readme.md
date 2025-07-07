@@ -5,7 +5,7 @@
 ![Tecnologia](https://img.shields.io/badge/back--end-Node.js-informational)
 
 ![Demonstração Tela de Login](.github/assets/demo-login.png)
-![Demonstração Dashboard](.github/assets/demo-login.png)
+![Demonstração Dashboard](.github/assets/demo-dashboard.png)
 
 ---
 
